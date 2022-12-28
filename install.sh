@@ -2,9 +2,9 @@
 
 cd
 
-cp -r dotconfig ~/.config
-cp bashrc ~/.bashrc
-cp gitconfig ~/.gitconfig 
+cp -r /home/dotconfig ~/.config
+cp /home/bashrc ~/.bashrc
+cp /home/gitconfig ~/.gitconfig 
 
 
 exit 0
