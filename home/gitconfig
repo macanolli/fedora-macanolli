@@ -1,0 +1,5 @@
+[user]
+	name = macanolli
+	email = jmacanolli@gmail.com
+[credential]
+	helper = libsecret
